@@ -1,0 +1,166 @@
+{
+  "snacks" : [
+    {
+        "id": 1 ,
+        "item" : "Samosa",
+        "price" : 15 ,
+        "image" : "https://media.istockphoto.com/id/1324926723/photo/close-up-of-samosas-and-pakoras-two-delicious-east-indian-appetizers.jpg?s=612x612&w=0&k=20&c=dejPuuHOfROm7ITnwIeiMixprGPyp4UuSiQfhuU-FvU=",
+        "description" : " Deep-fried pastry filled with spiced potatoes or meat.",
+        "time" : 0 ,
+        "rating" : 4.2 , 
+        "count" : 655
+    },
+    {
+        "id": 2 ,
+        "item" : "Pakora",
+        "price" : 50 ,
+        "image" : "https://media.istockphoto.com/id/2134451098/photo/pakora-on-iftar-food-item.jpg?s=612x612&w=0&k=20&c=TQqlBGA6P-DFfR7bYGYMm7JehXuXj5ZxlnJZ22JBV4w=",
+        "description" : "Deep-fried fritters made with gram flour and vegetables or meat.",
+        "time" : 10 ,
+        "rating" : 3.8 , 
+        "count" : 589
+    },
+    {
+        "id": 3 ,
+        "item" : "Aloo Tikki",
+        "price" : 35 ,
+        "image" : "https://media.istockphoto.com/id/1052340884/photo/baked-potato-baked-potatoes-with-cheese-bacon-and-and-sweet-corn.jpg?s=612x612&w=0&k=20&c=BqEE5ap8F6HWXmTyzvsSC8i2Fq2kgytGg3e3z8TzWXU=",
+        "description" : " Spicy potato patties, often served with chutney.",
+        "time" : 15 ,
+        "rating" : 3.8 , 
+        "count" : 480
+    },
+    {
+        "id": 4 ,
+        "item" : "Pani Puri",
+        "price" : 20 ,
+        "image" : "https://media.istockphoto.com/id/1779752032/vector/savory-and-fresh-pani-puri-or-golgappa.jpg?s=612x612&w=0&k=20&c=aSG3vDbdXUUy7iehVtOXChHC2H6w4RLBTT9LeGhQnjo=",
+        "description" : "Crisp, hollow puris filled with tangy tamarind water and spiced fillings.",
+        "time" :10 ,
+        "rating" : 3.0 , 
+        "count" : 830
+    },
+    {
+        "id": 5 ,
+        "item" : "Bhel Puri",
+        "price" : 80 ,
+        "image" : "https://media.istockphoto.com/id/1308274550/photo/close-up-of-very-spicy-sweet-fatafat-bhel-mixture-indian-namkeen-on-a-ceramic-white-bowl.jpg?s=612x612&w=0&k=20&c=jWGBDIqxSd8SUiUNGeKorwEl9pxm0X77eSIaV35Q_dM=",
+        "description" : " A crunchy, tangy mixture of puffed rice, vegetables, and chutneys.",
+        "time" : 25 ,
+        "rating" : 4.5 , 
+        "count" : 251
+    },
+    {
+        "id": 6 ,
+        "item" : "Dhokla",
+        "price" : 99 ,
+        "image" : "https://media.istockphoto.com/id/2157592738/photo/mouthwatering-freshly-made-dhokla.jpg?s=612x612&w=0&k=20&c=HklPUmRH4LzH_xwMuznxnp5O3y7cCc-96d63lq13I78=",
+        "description" : " Steamed, savory cakes made from fermented chickpea flour.",
+        "time" : 10 ,
+        "rating" : 3.5 , 
+        "count" : 180
+    },
+    {
+        "id": 7 ,
+        "item" : "Kachori",
+        "price" : 35 ,
+        "image" : "https://media.istockphoto.com/id/1345910727/photo/kripik-tempeh-indonesian-crackers-food.jpg?s=612x612&w=0&k=20&c=wok1xwxW20UhHiuy5EYI1kI8V_5F8fa7Tnd5snZ7jPw=",
+        "description" : " Deep-fried pastry stuffed with spiced lentils or peas.",
+        "time" : 5 ,
+        "rating" : 3.4 , 
+        "count" : 142
+    },
+    {
+        "id": 8 ,
+        "item" : "Vada Pav",
+        "price" : 30 ,
+        "image" : "https://media.istockphoto.com/id/1574132838/vector/vada-pav-indian-food-cream-and-potato-cake-with-spices-in-a-bun-vector-graphic.jpg?s=612x612&w=0&k=20&c=nmr9chh5Vs2b48b4bh4lMzcl8t5rXm2VsJK1ihHeXh4=",
+        "description" : "A spiced potato fritter served in a bun, popular street food from Mumbai.",
+        "time" : 5 ,
+        "rating" : 4.3 , 
+        "count" : 661
+    }
+],
+  "riceitems" : [
+    {
+        "id": 1 ,
+        "item" : "Briyani",
+        "price" : 350 ,
+        "image" : "https://media.istockphoto.com/id/521835277/photo/chicken-biryani-on-metal-plate-close-up.jpg?s=1024x1024&w=is&k=20&c=dmVdj42rnMek_FFj4848LYIAmSBZLpE0D-wi0j8d5fY=",
+        "description" : "A fragrant rice dish cooked with layers of spiced meat or vegetables.",
+        "time" : 30 ,
+        "rating" : 4.5 , 
+        "count" : 1849
+    },
+    {
+        "id": 2 ,
+        "item" : "Pulao",
+        "price" : 250 ,
+        "image" : "https://media.istockphoto.com/id/1249734204/photo/veg-fried-rice-in-gray-bowl-isolated-on-white-backdrop-veg-fried-rice-is-indo-chinese-cuisine.jpg?s=612x612&w=0&k=20&c=pk7g9Ar8CamkoqWFHaV4BTdi_VyZHkogNOsfPhwsIvI=",
+        "description" : " A mildly spiced rice dish made with vegetables or meat.",
+        "time" : 20 ,
+        "rating" : 3.9 , 
+        "count" : 785
+    },
+    {
+        "id": 3 ,
+        "item" : "Jeera Rice",
+        "price" : 200 ,
+        "image" : "https://media.istockphoto.com/id/1413074800/photo/coconut-milk.jpg?s=1024x1024&w=is&k=20&c=buZtk7o6ZBPgS7R8WZx-CZ3eE7bLdkpC-FntgelCZps=",
+        "description" : "Rice flavored with cumin seeds, often served as an accompaniment.",
+        "time" : 10 ,
+        "rating" : 3.5 , 
+        "count " : 1002
+    },
+    {
+        "id": 4 ,
+        "item" : "Tamarind Rice",
+        "price" : 129 ,
+        "image" : "https://media.istockphoto.com/id/1409449965/photo/rice-with-vegetables.webp?s=1024x1024&w=is&k=20&c=_WSrNVZalIohhM1kGDy5C2cngBhPKYX2UH-c4BvRLsc=",
+        "description" : "Tangy rice dish made with tamarind and South Indian spices.",
+        "time" : 15 ,
+        "rating" : 4.4 , 
+        "count " : 1651
+    },
+    {
+        "id": 5 ,
+        "item" : "Lemon Rice",
+        "price" : 119 ,
+        "image" : "https://media.istockphoto.com/id/1172744782/photo/vegetarian-lentil-and-spinach-curry.jpg?s=612x612&w=0&k=20&c=9_t3k17krWyU9GOV9v5QHUT6YMsxvu_1NNBrra5COVg=",
+        "description" : "Zesty rice flavored with lemon juice, curry leaves, and mustard seeds.",
+        "time" : 10 ,
+        "rating" : 3.5 , 
+        "count " : 955
+    },
+    {
+        "id": 6 ,
+        "item" : "Khichdi",
+        "price" : 280 ,
+        "image" : "https://media.istockphoto.com/id/848739306/photo/spicy-curry-vegetarian-food-in-a-bowl-dark-background-indian-food.jpg?s=612x612&w=0&k=20&c=Y7TntNhBVD_UYjeJ61MSc-vV1f2rLG9ugXITf2TrcNo=",
+        "description" : "A comforting rice and lentil dish often eaten as a light meal.",
+        "time" : 20 ,
+        "rating" : 3.1 , 
+        "count " : 641
+    },
+    {
+        "id": 7 ,
+        "item" : "Coconut Rice",
+        "price" : 149 ,
+        "image" : "https://media.istockphoto.com/id/1388454502/photo/coconut-flakes-in-a-brown-ceramic-bowl-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=uyQx43HT8Ho3yYa4Tp0svo5CKVLLyEikm5WzhsB0K4I=",
+        "description" : "South Indian-style rice flavored with coconut and curry leaves.",
+        "time" : 30 ,
+        "rating" : 3.7 , 
+        "count " : 711
+    },
+    {
+        "id": 8 ,
+        "item" : "Curd Rice",
+        "price" : 100 ,
+        "image" : "https://media.istockphoto.com/id/171307062/photo/soft-tofu.jpg?s=612x612&w=0&k=20&c=Y1iWgcMWGngnzR344LO2uefqzY4jSi07F57tngTXY6Q=",
+        "description" : "A simple, cooling dish made from yogurt and rice, popular in South India.",
+        "time" : 10 ,
+        "rating" : 4.1 , 
+        "count " : 1366
+    }
+]
+}
